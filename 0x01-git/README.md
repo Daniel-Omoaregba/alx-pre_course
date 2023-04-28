@@ -1,0 +1,1 @@
+This directory focus on getting use to git. It is the basics.
